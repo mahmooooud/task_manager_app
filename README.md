@@ -114,3 +114,10 @@ To search for a task:
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+![Screenshot_1744302043](https://github.com/user-attachments/assets/63d3ea40-26e3-4ced-baca-052e9d90d1ea)
+
+![Screenshot_1744302040](https://github.com/user-attachments/assets/c3d509ea-d79f-479a-bf5d-2b532debe705)
+
+![Screenshot_1744302038](https://github.com/user-attachments/assets/faa20c5d-5d89-437c-91e8-a1d08328709b)
+
